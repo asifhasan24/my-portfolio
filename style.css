@@ -29,6 +29,7 @@ p {
   font-weight: bold;
   line-height: 1.1;
   word-spacing: 4px;
+  
 }
 i {
   color: #2ffcd0;
@@ -438,4 +439,12 @@ form:hover .form-button button {
   .footer-div {
     margin: 30px 0;
   }
+}
+
+#particles-js{
+ 
+ 
+  background:#50d1c0;
+ 
+
 }
