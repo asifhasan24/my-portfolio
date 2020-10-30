@@ -1,0 +1,24 @@
+{
+  "name": "final-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "typed.js": "^2.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifhasan24/my-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asifhasan24/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/asifhasan24/my-portfolio#readme"
+}
