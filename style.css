@@ -344,7 +344,7 @@ i {
   font-weight: 400;
   line-height: 1.4;
   text-align: center;
-  background: transparent;
+  /* background: transparent; */
 }
 form:hover .form-button button {
   background: #fff;
